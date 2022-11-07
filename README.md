@@ -30,4 +30,4 @@ Comparación con la Torre Entel en vez de la Estatua de la Libertad. Es mas o me
 
 En gráfico desarmado -> Comparación con transbordador para entender la cantidad de espacio que tienen. 
 
-Comparación con cohetes míticos. Apollo, Robot que llegó a la luna, vs el Starship y distinción entre cohete y nave. Es un supercohete, es más interesante comparar con cohetes emblemáticos que con otras empresas. 
+Comparación con cohetes míticos. Soviético que logró la órbita, Apollo, Robot que llegó a la luna, el que llevó la estación espacial, vs el Starship y distinción entre cohete y nave. Es un supercohete, es más interesante comparar con cohetes emblemáticos que con otras empresas. 
