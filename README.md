@@ -29,3 +29,5 @@ Gracias de la reutilización. Dimensiones de las plataformas, tamaños, distanci
 Comparación con la Torre Entel en vez de la Estatua de la Libertad. Es mas o menos el mismo tamaño. Mide 120m vs los 127 de la torre. 
 
 En gráfico desarmado -> Comparación con transbordador para entender la cantidad de espacio que tienen. 
+
+Comparación con cohetes míticos. Apollo, Robot que llegó a la luna, vs el Starship y distinción entre cohete y nave. Es un supercohete, es más interesante comparar con cohetes emblemáticos que con otras empresas. 
