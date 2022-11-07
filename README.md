@@ -33,3 +33,11 @@ En gráfico desarmado -> Comparación con transbordador para entender la cantida
 Comparación con cohetes míticos. Soviético que logró la órbita, Apollo, Robot que llegó a la luna, el que llevó la estación espacial, vs el Starship y distinción entre cohete y nave. Es un supercohete, es más interesante comparar con cohetes emblemáticos que con otras empresas. Análisis de la masa total de los cohetes vs el de las naves.  
 
 [Colonización de Marte](https://www.nationalgeographic.com/science/article/elon-musk-spacex-exploring-mars-planets-space-science)
+
+### Saturno V
+
+Altura: 110,6 metros.
+Peso: 3.000 toneladas aprox.
+Combustible: petróleo refinado e hidrógeno líquido.
+
+
