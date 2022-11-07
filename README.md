@@ -18,4 +18,4 @@ En esta inforgafía se hará un recorrido por la estrategia de recuperación de 
 
 ### Contexto "histórico": 
 
-Dentro de lo privado. Primeras competencias rusas que llevaban personas al espacio. 
+Hitos dentro de lo privado. Primeras iniciativas rusas que llevaban personas al espacio. Importancia de la cantidad de plata que se gasta, vs la carrera espacial de la GF, donde no importaba cuánto se gastaba (ROI)
