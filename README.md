@@ -20,4 +20,12 @@ Elon Musk, cuya fortuna puede ser comparada al PIB de X, el año X dijo que "Par
 ### Contexto "histórico": 
 Hitos dentro de lo privado. Primeras iniciativas rusas que llevaban personas al espacio. Importancia de la cantidad de plata que se gasta, vs la carrera espacial de la GF, donde no importaba cuánto se gastaba (ROI) SUKOI. 
 
+---
 
+Separación entre naves y cohetes. 
+
+Gracias de la reutilización. Dimensiones de las plataformas, tamaños, distancias, bla bla. 
+
+"No voy volando, voy cayendo con gracia". 
+
+Cómo se llega a esta Marte y cómo es la reutilización aplicada a ese viaje. 
