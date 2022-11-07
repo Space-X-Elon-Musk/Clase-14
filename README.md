@@ -22,10 +22,10 @@ Hitos dentro de lo privado. Primeras iniciativas rusas que llevaban personas al 
 
 ---
 
-Separación entre naves y cohetes. 
+#### Separación entre naves y cohetes 
 
-Gracias de la reutilización. Dimensiones de las plataformas, tamaños, distancias, bla bla. 
+Gracias de la reutilización. Dimensiones de las plataformas, tamaños, distancias, bla bla. "No voy volando, voy cayendo con gracia". Cómo se llega a esta Marte y cómo es la reutilización aplicada a ese viaje. 
 
-"No voy volando, voy cayendo con gracia". 
+Comparación con la Torre Entel en vez de la Estatua de la Libertad. Es mas o menos el mismo tamaño. Mide 120m vs los 127 de la torre. 
 
-Cómo se llega a esta Marte y cómo es la reutilización aplicada a ese viaje. 
+En gráfico desarmado -> Comparación con transbordador para entender la cantidad de espacio que tienen. 
