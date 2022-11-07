@@ -2,7 +2,7 @@
 
 ### Boceto definido en la Evaluación #3
 
-![Boceto final definido por el grupo](img/boceto-final.jpg)
+[Boceto final definido por el grupo](img/boceto-final.jpg)
 
 ### Título: 
 Un recorrido por Space X
