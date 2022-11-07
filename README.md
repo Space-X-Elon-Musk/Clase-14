@@ -37,7 +37,10 @@ Comparación con cohetes míticos. Soviético que logró la órbita, Apollo, Rob
 ### Saturno V
 
 Altura: 110,6 metros.
+
 Peso: 3.000 toneladas aprox.
+
 Combustible: petróleo refinado e hidrógeno líquido.
 
+![SaturnoV](https://user-images.githubusercontent.com/91480489/200436567-bcf2ca38-a071-4bf9-a0dc-1cdcec28dd34.png)
 
