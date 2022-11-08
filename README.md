@@ -35,10 +35,7 @@ Comparación con cohetes míticos. Soviético que logró la órbita, Apollo, Rob
 [Colonización de Marte](https://www.nationalgeographic.com/science/article/elon-musk-spacex-exploring-mars-planets-space-science)
 [Cuidad en Marte](https://www.inverse.com/innovation/spacex-mars-city-codex)
 
-![Gráfico Colonizacion Marte](https://user-images.githubusercontent.com/75258779/200443781-84e0b7d4-4b8c-4213-a865-febc77839b42.svg)
-
-![Gráfico Colonizacion Marte 2](https://user-images.githubusercontent.com/75258779/200450865-492db0e7-9490-424a-b206-8c5fec803f12.svg)
-
+![Gráfico Colonizacion-Marte](https://user-images.githubusercontent.com/75258779/200443781-84e0b7d4-4b8c-4213-a865-febc77839b42.svg)
 
 ### Saturno V
 
@@ -63,3 +60,21 @@ Actualmente se encuentra retirado con 135 lanzamientos, 134 exitosos y  1 fallid
 
 ![transbordador](https://user-images.githubusercontent.com/75574057/200448109-f7dc8e23-f928-4e1a-8181-739024f3ba27.svg)
 
+### Soyuz (Soviético)
+
+Altura: 45,6 m
+
+Peso: 308 000 kg
+
+Carga útil : 6450 kg
+
+Combustibles: queroseno, pero los cohetes Soyuz-U2 usan una variante denominada Syntin.
+
+Tripulación :  Hasta 3 tripulantes
+
+Etapas : 3
+
+Actualmente se encuentra retirado con 30 lanzamientos, 28 exitosos y  2 fallidos
+
+
+![Soyuz](https://user-images.githubusercontent.com/75574057/200448109-f7dc8e23-f928-4e1a-8181-739024f3ba27.svg)
