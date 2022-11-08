@@ -38,3 +38,40 @@ Comparación con cohetes míticos. Soviético que logró la órbita, Apollo, Rob
 ![Gráfico Colonizacion-Marte](https://user-images.githubusercontent.com/75258779/200443781-84e0b7d4-4b8c-4213-a865-febc77839b42.svg)
 
 ![Gráfico comparativo](https://github.com/Space-X-Elon-Musk/Clase-14/blob/main/img/Gr%C3%A1ficoCohetes.svg)
+
+### Contenidos último gráfico
+
+### Saturno V
+
+Altura: 110,6 metros.
+
+Peso: 3.000 toneladas aprox.
+
+Combustible: petróleo refinado e hidrógeno líquido.
+
+### Transbordador STS
+
+Altura: 56,1 metros
+
+Peso: 2.030  toneldas
+
+Tripulación : inicia con dos, crece a  cinco, luego a siete, ocho y llega hasta once personas. 
+
+Actualmente se encuentra retirado con 135 lanzamientos, 134 exitosos y  1 fallido ( Challenger)
+
+### Soyuz (Soviético)
+
+Altura: 45,6 m
+
+Peso: 308 000 kg
+
+Carga útil : 6450 kg
+
+Combustibles: queroseno, pero los cohetes Soyuz-U2 usan una variante denominada Syntin.
+
+Tripulación :  Hasta 3 tripulantes
+
+Etapas : 3 
+
+Actualmente se encuentra retirado con 30 lanzamientos, 28 exitosos y  2 fallidos
+
