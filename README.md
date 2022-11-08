@@ -77,4 +77,4 @@ Etapas : 3
 Actualmente se encuentra retirado con 30 lanzamientos, 28 exitosos y  2 fallidos
 
 
-![soyuz](https://user-images.githubusercontent.com/75574057/200448109-f7dc8e23-f928-4e1a-8181-739024f3ba27.svg)
+![soyuz](https://github.com/Space-X-Elon-Musk/Clase-14/blob/main/img/soyuz.svg)
