@@ -72,7 +72,7 @@ Combustibles: queroseno, pero los cohetes Soyuz-U2 usan una variante denominada 
 
 Tripulación :  Hasta 3 tripulantes
 
-Etapas : 3
+Etapas : 3 
 
 Actualmente se encuentra retirado con 30 lanzamientos, 28 exitosos y  2 fallidos
 
