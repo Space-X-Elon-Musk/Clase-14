@@ -37,6 +37,8 @@ Comparación con cohetes míticos. Soviético que logró la órbita, Apollo, Rob
 
 ![Gráfico Colonizacion-Marte](https://user-images.githubusercontent.com/75258779/200443781-84e0b7d4-4b8c-4213-a865-febc77839b42.svg)
 
+![Gráfico comparativo](https://github.com/Space-X-Elon-Musk/Clase-14/blob/main/img/Gr%C3%A1ficoCohetes.svg)
+
 ### Saturno V
 
 Altura: 110,6 metros.
