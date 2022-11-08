@@ -35,7 +35,10 @@ Comparación con cohetes míticos. Soviético que logró la órbita, Apollo, Rob
 [Colonización de Marte](https://www.nationalgeographic.com/science/article/elon-musk-spacex-exploring-mars-planets-space-science)
 [Cuidad en Marte](https://www.inverse.com/innovation/spacex-mars-city-codex)
 
-![Gráfico Colonizacion-Marte](https://user-images.githubusercontent.com/75258779/200443781-84e0b7d4-4b8c-4213-a865-febc77839b42.svg)
+![Gráfico Colonizacion Marte](https://user-images.githubusercontent.com/75258779/200443781-84e0b7d4-4b8c-4213-a865-febc77839b42.svg)
+
+![Gráfico Colonizacion Marte 2](https://user-images.githubusercontent.com/75258779/200450865-492db0e7-9490-424a-b206-8c5fec803f12.svg)
+
 
 ### Saturno V
 
